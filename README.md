@@ -42,7 +42,7 @@ Portfolio page screen shot
 
 ## Deployment
 
-Github Repo: https://github.com/SILamble/ProfileSL
+Github Repo: https://github.com/SILamble/React-Profile
 Heroku Deployed App: https://react-profile-sil.herokuapp.com/
 
 ## Authors
