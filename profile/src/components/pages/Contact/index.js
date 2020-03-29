@@ -12,6 +12,7 @@ function Contact (){
                     <li><a href="lamble.stuart@googlemail.com">lamble.stuart@googlemail.com</a></li>
                     <li><a href="https://www.linkedin.com/in/stuart-lamble-88387066/">LinkedIn</a></li>
                     <li><a href="https://github.com/SILamble">GitHub</a></li>
+                    <li><a href="Assets/Resume.pdf">Resume</a></li>
                 </ul>
                 
             </div>

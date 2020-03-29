@@ -5,10 +5,10 @@ function Portfolio(){
     return (
         <div className="row">
                 <div className="col-sm-2 col-xs-1"></div>
-                    <div className="col-sm-8 col-xs-10">
-                        <h2 className="col-12">Portfolio</h2>
+                    <div className="col-sm-8 col-xs-10 cont">
+                        <h2 className="col-12 title">Portfolio</h2>
 
-                        <div className="row">
+                        <div className="row co">
 
                         <figure className="figure col-sm-4 col-xs-4">
                                 <img src="Assets/living_in_the_scene.PNG" className="figure-img img-fluid rounded" alt="Screen Shot of the Living In The Scene app."/>
@@ -38,6 +38,18 @@ function Portfolio(){
                                 <figcaption className="figure-caption band">Eat Da Burger App</figcaption>
                                 <li><a href="https://silamble.github.io/Unit-13-Eat-Da-Burger">Link</a></li>
                                 <li><a href="https://github.com/SILamble/Unit-13-Eat-Da-Burger">GitHub Repo</a></li>
+                        </figure>
+                        <figure className="figure col-sm-4 col-xs-4">
+                                <img src="Assets/Capture003-stats page.png" className="figure-img img-fluid rounded" alt="Screen Shot of the Work Out Tracker App."/>
+                                <figcaption className="figure-caption band">Work Out Tracker</figcaption>
+                                <li><a href="https://workout-tracker-sil-2020.herokuapp.com/">Link</a></li>
+                                <li><a href="https://github.com/SILamble/Unit-17-Nosql-Homework-Workout-Tracker">GitHub Repo</a></li>
+                        </figure>
+                        <figure className="figure col-sm-4 col-xs-4">
+                                <img src="Assets/Capture002.png" className="figure-img img-fluid rounded" alt="Screen Shot of the Offline/Online Budget App."/>
+                                <figcaption className="figure-caption band">Online/Offline Budget App</figcaption>
+                                <li><a href="https://budget-tracker-sil2020.herokuapp.com/">Link</a></li>
+                                <li><a href="https://github.com/SILamble/Unit-18-PWA-Homework-Online-Offline-Budget-Trackers">GitHub Repo</a></li>
                         </figure>
                         </div>
                 </div>

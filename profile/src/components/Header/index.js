@@ -1,11 +1,12 @@
 import React from "react";
+import "./style.css"
 import { Link, useLocation } from "react-router-dom";
 
 function Header() {
   const location = useLocation();
 
   return (
-    <ul className="nav nav-tabs">
+    <ul className="navbar-right nav nav-tabs  navB">
       <li className="nav-item">
         <Link
           to="/about"
