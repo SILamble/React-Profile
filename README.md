@@ -43,7 +43,7 @@ xxxx
 ## Deployment
 
 Github Repo: https://github.com/SILamble/ProfileSL
-Heroku Deployed App: https://dashboard.heroku.com/apps/sil-profile-reacct
+Heroku Deployed App: https://react-profile-sil.herokuapp.com/
 
 ## Authors
 
