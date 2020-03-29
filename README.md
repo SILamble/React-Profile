@@ -32,12 +32,12 @@ Bootstrap
 
 ### Screenshots
 
-xxxx
-![]()
-xxxx
-![]()
-xxxx
-![]()
+Contact me screen shot
+![Contact me page screen shot](https://github.com/SILamble/React-Profile/blob/master/public/Assets/Contact-page-capt.PNG)
+About Page screen shot
+![About Page screen shot](https://github.com/SILamble/React-Profile/blob/master/public/Assets/Home-page-capt.PNG)
+Portfolio page screen shot
+![Portfolio page screen shot](https://github.com/SILamble/React-Profile/blob/master/public/Assets/Port-page-capt.PNG)
 
 
 ## Deployment
