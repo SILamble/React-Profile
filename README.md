@@ -9,11 +9,11 @@ As a web developer I want an online presence to promote my projects and with con
 ## MVP
 
 Profile should:
-* 1) Be made in React []
-* 2) Include 3 pages []
-* * a) About Me []
-* * b) Portfolio Page []
-* * c) Links/Contact page []
+* 1) Be made in React [x]
+* 2) Include 3 pages [x]
+* * a) About Me [x]
+* * b) Portfolio Page [x]
+* * c) Links/Contact page [x]
 
 ## Process
 
@@ -28,6 +28,7 @@ Using Create React App:
 
 React
 React-router-dom
+Bootstrap
 
 ### Screenshots
 
@@ -41,8 +42,8 @@ xxxx
 
 ## Deployment
 
-Github Repo: 
-Heroku Deployed App: 
+Github Repo: https://github.com/SILamble/ProfileSL
+Heroku Deployed App: https://dashboard.heroku.com/apps/sil-profile-reacct
 
 ## Authors
 
